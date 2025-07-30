@@ -1,1 +1,2 @@
 Simple-AES-Cipher==1.0.7
+pycryptodome==3.23.0
